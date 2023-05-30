@@ -1,0 +1,8 @@
+<body class="text-center body"
+     v-class="body-on: lights, body-off: !lights">
+      <button v-on="click: flipSwitch"
+              v-class="btn-danger: lights, btn-success: !lights"
+              class="btn">
+        <span class="fa fa-power-off"></span>
+     </button>
+</body>

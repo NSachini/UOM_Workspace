@@ -1,0 +1,30 @@
+.body-on {
+    background-color: #dddddd;
+  }
+  .body-off {
+    background-color: #000000;
+  }
+  .height-2 {
+    min-height: 10em;
+  }
+  .btn {
+    border-radius: 5em;
+    height: 100px;
+    width: 100px;
+    outline: none;
+    background: none 0;
+    border: solid thin #444444;
+    color: #eeeeee;
+    font-size: 3em;
+  }
+  .btn-danger {
+     background-color: maroon;
+     color: #dddddd;
+  }
+  .btn-success {
+    background-color: green;
+    color: #000000;
+  }
+  .text-center {
+     text-align: center;
+  }
